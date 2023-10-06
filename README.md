@@ -1,15 +1,6 @@
-# morganise V3.0.0 Build 28
-
-Flutter: v3.15.3
-Date: 27 Sep 2023
-
-
-# Notes
-
-
 # TimeLog of 
 Project: 
-Developer: @kasun-a
+Developer: [Kaz](https://github.com/kasun-a)
 Start Date: 
 Tech Stack: 
 
