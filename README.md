@@ -1,14 +1,20 @@
+# morganise V3.0.0 Build 28
+
+Flutter: v3.15.3
+Date: 27 Sep 2023
+
+
 # TimeLog of 
-Project: 
+Project: j
 Developer: [Kaz](https://github.com/kasun-a)
-Start Date: 
-Tech Stack: 
+Start Date: n
+Tech Stack: n
 
 ---
-| Log | Start | End |
-| ----------- | ----------- | ----------- |
-| 1 | Title | aba |
-| Paragraph | Text | ded|
+| Log | Start Time | End Time | Comments |
+| ----------- | ----------- | ----------- | ----------- |
+| 1 | Title | aba | Project Setup and init |
+
 
 
 
