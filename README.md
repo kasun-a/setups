@@ -9,7 +9,7 @@ Date: 27 Sep 2023
 
 # TimeLog of 
 Project: 
-Developer: kasun-a@github
+Developer: @kasun-a
 Start Date: 
 Tech Stack: 
 
