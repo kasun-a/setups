@@ -1,23 +1,3 @@
-# morganise V3.0.0 Build 28
-
-Flutter: v3.15.3
-Date: 27 Sep 2023
-
-
-# TimeLog of 
-Project: j
-Developer: [Kaz](https://github.com/kasun-a)
-Start Date: n
-Tech Stack: n
-
----
-| Log | Start Time | End Time | Comments |
-| ----------- | ----------- | ----------- | ----------- |
-| 1 | Title | aba | Project Setup and init |
-
-
-
-
 # create a new repository on the command line
 
 ```sh
